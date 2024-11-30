@@ -26,3 +26,4 @@ C:\Users\Alexa\Desktop\NETProjects\games-api\obj\Debug\net9.0\refint\games-api.d
 C:\Users\Alexa\Desktop\NETProjects\games-api\obj\Debug\net9.0\games-api.pdb
 C:\Users\Alexa\Desktop\NETProjects\games-api\obj\Debug\net9.0\games-api.genruntimeconfig.cache
 C:\Users\Alexa\Desktop\NETProjects\games-api\obj\Debug\net9.0\ref\games-api.dll
+C:\Users\Alexa\Desktop\NETProjects\games-api\obj\Debug\net9.0\games-api.sourcelink.json
